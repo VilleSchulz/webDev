@@ -1,0 +1,23 @@
+.id-card {
+    display: flex;
+    align-items: flex-start;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px 0px;
+    max-width: 100%;
+    max-height: 160px;
+    font-family: Arial, sans-serif;
+  }
+  .id-card-image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-right: 5px;
+  }
+  .id-card-info {
+    display: flex;
+    flex-direction: column;
+  }
+  .id-card p {
+    margin: 0px 0px 0px 5px;
+  }

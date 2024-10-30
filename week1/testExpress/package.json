@@ -1,0 +1,20 @@
+{
+  "name": "testexpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "gulp-sass": "^5.1.0",
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,22 @@
+.box-color {
+    padding: 20px;
+    border: 2px solid #000;
+    margin: 10px;
+    text-align: center;
+}
+
+.rgb-paragraph {
+    margin-bottom: 5px;
+}
+
+.rgb-paragraph, .hex-paragraph {
+    font-family: Arial, sans-serif;
+}
+
+.rgb-paragraph {
+    margin-bottom: 0px;
+}
+
+.hex-paragraph {
+    margin-top: 0px;
+}

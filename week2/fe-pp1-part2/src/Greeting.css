@@ -1,0 +1,9 @@
+.greeting {
+    display: flex;
+    align-items: flex-start;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+    max-width: 100%;
+    font-family: Arial, sans-serif;
+  }

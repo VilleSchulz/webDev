@@ -1,0 +1,8 @@
+.random{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px 0px;
+    max-width: 100%;
+    max-height: 160px;
+    font-family: Arial, sans-serif;
+}
