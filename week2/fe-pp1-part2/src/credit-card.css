@@ -1,12 +1,12 @@
 .credit-card{
-    border-radius: 10px;
-    width: 22rem;
-    height: 11rem;
-    font-family: Arial, sans-serif;
-    color: var(--text-color);
-    background-color: var(--bg-color);
-    padding: 1.5rem;
-    margin: 1rem;
+  border-radius: 10px;
+  width: 22rem;
+  height: 11rem;
+  font-family: Arial, sans-serif;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+ 
+  margin: 1rem;
   
 }
 
@@ -14,23 +14,33 @@
 
 
 .header{
- /*height: var(--height);*/
- height: 1.8rem;
+  /*margin-bottom: 1rem;*/
+  margin-top: var(--margin-top);
+  margin-bottom: var(--margin-bottom);
+  margin-top:1.5rem;
+  /*margin-top: 0.7rem;*/
+  height: 2rem;
   display: flex;
+  margin-right: var(--margin-right);
   justify-content: flex-end;
 }
 .credit-card-number {
-    font-size: 2.2rem;
-    padding: 1rem 0 4rem 0;
-    text-align: center;
-    letter-spacing: 0.2rem;
+  font-size: 1.9rem;
+ 
+  text-align: center;
+  letter-spacing: 0.2rem;
+}
 
-  }
+  
   
 
   .credit-card-details {
     display: flex;
     gap: 1.2rem;
+    margin-left : 1.5rem;
+
+    margin-top: 0.7rem;
+   
 
   }
   .credit-card-details p {
@@ -38,4 +48,10 @@
     margin: 0;
   }
 
+.credit-card-logo{
+  height: var(--height)
 
+}
+.credit-card-owner{
+  margin-left: 1.5rem;
+}
