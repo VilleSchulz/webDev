@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className="credit-card-container">
-      <div style={{ paddingLeft: '0.5rem', paddingRight: '0.5rem' }}>
+    
         <CreditCard
           type="Visa"
           number="0123456789018845"
@@ -17,8 +17,8 @@ function App() {
           bgColor="#11aa99"
           color="white"
         />
-  </div>
-  <div style={{ paddingLeft: '0.5rem', paddingRight: '0.5rem' }}>
+  
+  
         <CreditCard
           type="Master Card"
           number="0123456789010995"
@@ -29,8 +29,8 @@ function App() {
           bgColor="#eeeeee"
           color="#222222"
         />
-      </div>
-      <div style={{ paddingLeft: '0.5rem', paddingRight: '0.5rem' }}>
+     
+     
 
         <CreditCard
           type="Visa"
@@ -42,7 +42,7 @@ function App() {
           bgColor="#ddbb55"
           color="white"
         />
-        </div>
+       
       </div>
       <BoxColor r={255} g={0} b={0} />
       <BoxColor r={128} g={255} b={0} />
