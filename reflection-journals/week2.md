@@ -19,12 +19,6 @@ Evaluate the performance of each member of your group. **Remember** to **evaluat
 - Eetu: is doing well and she has great ideas- 5
 - Ville: is doing well and she has great ideas- 5
 
-
-
-
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
-
 ----
 
 ## Reflection
