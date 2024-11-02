@@ -3,18 +3,25 @@
 ----
 ## Links
 - Link(s) to Group activities: 
-  - 
+  - https://github.com/VilleSchulz/webDev/tree/main/week2
   - 
 - Links to Pair programming: 
-  - 
-  - 
+  - https://github.com/VilleSchulz/webDev/tree/main/week2/fe-pp1-part1
+  - https://github.com/VilleSchulz/webDev/tree/main/week2/fe-pp1-part2
 
 ----
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
-- Group Member's Name
+- Mira: is doing well and she has great ideas- 5
+- Teemu: is doing well and she has great ideas- 5
+- Eetu: is doing well and she has great ideas- 5
+- Ville: is doing well and she has great ideas- 5
+
+
+
+
 Rate on a Scale of 1-5
 Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
 
@@ -22,19 +29,18 @@ Justify Your Answer: The group member's ability to collaborate, role in the task
 
 ## Reflection
 
-Please use utilize this template to write your reflections.
+I really like this cource. Looking forward to learn more
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
-
+Most difficulties was in css. It is pretty difficult to find right margins and display etc.
 ### What Went Well and Lessons Learned:
 
 [Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
 
 - Key Learning:
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+  I learned postman. It is really good tool for testing API:s. Scrum has been new thing also. I have been familiar with all the react tasks.
 
 - Online Resources:
 
@@ -48,16 +54,13 @@ Please use utilize this template to write your reflections.
 [Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
 
 - Soft Skills Development:
-
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
-
+  I have learned to design projects together with group members.
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
-
+This week, agile project management principles helped me break down the project work into clear, manageable parts and prioritize tasks effectively. The iterative approach allowed our team to make quick adjustments and adapt flexibly to new ideas. We held daily short meetings where everyone shared their progress, which increased transparency and strengthened our collaboration. Thanks to agility, we were able to solve problems faster and continuously improve the quality of the project.
 ### Final Thoughts:
 
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+Looking back on this week's experiences, I'm proud of my efforts in the Figma desing for our project. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
 
 ### Next Steps:
 
