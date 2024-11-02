@@ -4,7 +4,7 @@
 ## Links
 - Link(s) to Group activities: 
   - https://github.com/VilleSchulz/webDev/tree/main/week2
-  - 
+  - https://github.com/teemvat/demo-project
 - Links to Pair programming: 
   - https://github.com/VilleSchulz/webDev/tree/main/week2/fe-pp1-part1
   - https://github.com/VilleSchulz/webDev/tree/main/week2/fe-pp1-part2
