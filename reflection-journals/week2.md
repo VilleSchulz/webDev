@@ -15,9 +15,9 @@
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
 - Mira: is doing well and she has great ideas- 5
-- Teemu: is doing well and she has great ideas- 5
-- Eetu: is doing well and she has great ideas- 5
-- Ville: is doing well and she has great ideas- 5
+- Teemu: is doing well and he has great ideas- 5
+- Eetu: is doing well and he has great ideas- 5
+- Ville: is doing well and he has great ideas- 5
 
 ----
 
