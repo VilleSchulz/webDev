@@ -3,7 +3,7 @@
 ----
 ## Links
 - Link(s) to Group activities: 
-  - 
+  - https://github.com/VilleSchulz/webDev/tree/main/week3
   - 
 - Links to Pair programming: 
   - https://github.com/VilleSchulz/PairProgramming
@@ -16,7 +16,10 @@ Evaluate the performance of each member of your group. **Remember** to **evaluat
 
 - Group Member's Name
 Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+Teemu: did very good work with presentation and backlog 5
+Mira: Did very good work as a scrummaster
+Eetu:did good work with low res desing 5
+Ville: Did good work with low res desing 5
 
 ----
 
@@ -26,15 +29,15 @@ Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+I had no issues this week
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
+Lessons were good 
 
 - Key Learning:
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+I learned tailwind and some middleware/express
 
 - Online Resources:
 
@@ -49,11 +52,11 @@ Please use utilize this template to write your reflections.
 
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+Learned more scrum beahvior this week
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+We had goo scrum conversation, who does what in project
 
 ### Final Thoughts:
 
@@ -61,7 +64,7 @@ Looking back on this week's experiences, I'm proud of my efforts in the [Web Cou
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+I am focusing front end in project so looking forward fo that.
 
 
 <!-- Links -->
