@@ -3,21 +3,21 @@
 ----
 ## Links
 - Link(s) to Group activities: 
-  - 
+  - https://github.com/VilleSchulz/webDev/tree/main/week4
   - 
 - Links to Pair programming: 
-  - 
-  - 
+  - https://github.com/VilleSchulz/PairProgramming/tree/main/week4-be-pp
+  - https://github.com/VilleSchulz/PairProgramming/tree/main/week4-fe-pp
 
 ----
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
-- Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
-
+- Ville: i have succeeded well and i am eager to learn more - 5
+- Mira: Little bit behind from the normal schedule mut still ok - 4
+- Eetu: Little bit behind from the normal schedule but still ok - 4
+- Teemu:Has been doing frontend with me to the project and learnd lot - 5
 ----
 
 ## Reflection
@@ -26,13 +26,13 @@ Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+there has been litte bit of  difficulties in coding marathon. I have been doing singup page. Mododded it to be modal wiht blurred background. Making  it was harder than i thought
 
 ### What Went Well and Lessons Learned:
 
 [Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
 
-- Key Learning:
+- I have learnd more css and react component related stuff and conditional rendering in react/js.
 
 [Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
 
@@ -45,15 +45,15 @@ Please use utilize this template to write your reflections.
 
 - Academic Progress:
 
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
-
+i completed all the tasks, and there has not been any major difficulties. Very interesting assingments so far!!
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+I have learn to be more team member and to listen others opinion more.
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
+We have been discussing what to do next and when. We divided our  qroup in half so we can do frontend and backend related discussion seperetaly.
+
 
 ### Final Thoughts:
 
@@ -61,11 +61,13 @@ Looking back on this week's experiences, I'm proud of my efforts in the [Web Cou
 
 ### Next Steps:
 
-[Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
+I am really interested all of the comming stuff. Authentication is new thing for me.
 
 
 <!-- Links -->
-[criticism and constructive feedback]:https://cvdl.ben.edu/blog/why-is-everyone-talking-about-feedback/
+[criticism and constructive feedback]:
+
+
 
 
 
