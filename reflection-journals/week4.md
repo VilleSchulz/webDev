@@ -16,7 +16,7 @@ Evaluate the performance of each member of your group. **Remember** to **evaluat
 
 - Ville: i have succeeded well and i am eager to learn more - 5
 - Mira: Little bit behind from the normal schedule mut still ok - 4
-- Eetu: Little bit behind from the normal schedule but still ok - 4
+- Eetu: Little bit behind from the normal schedule but still ok - 5
 - Teemu:Has been doing frontend with me to the project and learnd lot - 5
 ----
 
