@@ -1,24 +1,29 @@
 # Journal
 
-----
-## Links
-- Link(s) to Group activities: 
-  - 
-  - 
-- Links to Pair programming: 
-  - 
-  - 
+---
 
-----
+## Links
+
+- Link(s) to Group activities:
+  - https://github.com/VilleSchulz/webDev/tree/main/week5
+  -
+- Links to Pair programming:
+  - https://github.com/VilleSchulz/PairProgramming/tree/main/week5-be-pp(mira)
+  - https://github.com/VilleSchulz/PairProgramming/tree/main/week5-fepp-starter
+
+---
+
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
 - Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+ - Teemu : Has done good work with front end ! eager to learn :5
+ - Mira : Doing well with backend : 5
+ - Eetu : doing well with backend : 5
+ - Ville : doing well with front and backend : 5 
 
-----
+---
 
 ## Reflection
 
@@ -26,15 +31,14 @@ Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+There was little challenges in cat assigments when using local storage. Afterwhile i got it work.
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
-
+I really liked hashing part of this week, verry important!!
 - Key Learning:
 
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
+Learned hashing, useeffects and localstorage. Allso fetching got better
 
 - Online Resources:
 
@@ -42,33 +46,24 @@ Please use utilize this template to write your reflections.
 
 ### Coping Strategies:
 
-
 - Academic Progress:
-
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+We improved our scrum meetings. Now i think workflow is better
 
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+No special improvement
 
 ### Project Management:
 
-[Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
-
+-
 ### Final Thoughts:
 
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+I am looking forward to make my own web apps after this course. Getting my skill set there one by one.
 
 ### Next Steps:
 
 [Outline your goals and intentions for the upcoming week, including specific areas you want to focus on.]
 
-
 <!-- Links -->
-[criticism and constructive feedback]:https://cvdl.ben.edu/blog/why-is-everyone-talking-about-feedback/
 
-
-
-
-
-
+[criticism and constructive feedback]: https://cvdl.ben.edu/blog/why-is-everyone-talking-about-feedback/
