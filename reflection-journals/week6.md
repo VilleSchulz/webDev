@@ -3,61 +3,49 @@
 ----
 ## Links
 - Link(s) to Group activities: 
-  - 
+  - https://github.com/VilleSchulz/webDev/tree/main/week6
   - 
 - Links to Pair programming: 
-  - 
-  - 
+  - https://github.com/VilleSchulz/PairProgramming
+  - https://github.com/AaroSaila/webdev-week6-wed-fepp
 
 ----
 ## Peer assessment
 
 Evaluate the performance of each member of your group. **Remember** to **evaluate yourself as well**!
 
-- Group Member's Name
-Rate on a Scale of 1-5
-Justify Your Answer: The group member's ability to collaborate, role in the task, how they managed their part, motivation etc.
+- Teemu has learnd lot of frontend during groupwork and he is easy to work with :5
+- Eetu  is doing very well with database in groupwork : 5
+- Mira is doing well : 5
+- Ville  has learned more about backend Routers /middleware etc.
 
-----
-
-## Reflection
-
-Please use utilize this template to write your reflections.
 
 ### Challenges Faced:
 
-[Detail challenges encountered during the week, such as coding difficulties, time management issues, or project-related obstacles.]
+There was little challenges in testing, but afterwhile i found that i was supposed to change few things to match  on other file.
 
 ### What Went Well and Lessons Learned:
 
-[Highlight positive outcomes from the week's activities, successful coding tasks, and any valuable lessons you learned from your experiences.]
-
-- Key Learning:
-
-[Summarize the new concepts, techniques, or strategies you learned during the week that have contributed to your understanding and growth.]
-
-- Online Resources:
-
-[List and briefly describe online resources you found useful during the week, whether they were tutorials, articles, forums, or videos.]
+- I deppened my knowledge about backend. In coding marathon we switched teams so backend team did front and vice versa.
 
 ### Coping Strategies:
 
 
 - Academic Progress:
 
-[Evaluate your academic progress for the week, discussing completed assignments, grades received, and areas where you've improved.]
+This weeks assigments were  verry important. Auth and localstorage etc. opened  new and better ways to do things
 
 - Soft Skills Development:
 
-[Reflect on how your soft skills, such as communication, collaboration, and problem-solving, contributed to your progress during the week.]
+ I this sprint i have been scrum master so i have learned  more some softskills.
 
 ### Project Management:
 
 [Discuss how agile project management principles influenced your approach to project work and collaboration this week.]
 
 ### Final Thoughts:
-
-Looking back on this week's experiences, I'm proud of my efforts in the [Web Course] and [Project Course]. Every challenge presented an opportunity to learn and grow, and I'm excited to continue building my skills and knowledge.
+At the first this week was hard but in the end of the week i started to understand 
+all the things
 
 ### Next Steps:
 
